@@ -6,6 +6,7 @@ public class Test {
         System.out.println(1);
         System.out.println("代码2");
         System.out.println("代码3");
+        System.out.println("代码4");
 
     }
 }
